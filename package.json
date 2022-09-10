@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "cars-api",
+  "description": "My cars api just for fun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gourishankar07/cars-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gourishankar07/cars-api/issues"
+  },
+  "homepage": "https://github.com/gourishankar07/cars-api#readme"
+}
