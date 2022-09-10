@@ -1,0 +1,36 @@
+{
+    "cars":[
+        {
+            "id":0,
+            "name":"Rolls-Royce",
+            "showroom":"Rolls-Royce Motor Cars",
+            "web":"https://www.rolls-roycemotorcars.com/en_GB/home.html",
+            "description":"Rolls-Royce is the world's leading supplier of marine propulsion equipment. Its products and services range from complete ship design to integrated propulsion, maneuvering, and positioning systems and deck machinery.",
+            "address":[
+                {
+                    "addressid":"0",
+                    "number":"75",
+                    "line1":"venn street",
+                    "postcode":"SW4 0BD",
+                    "counrty":"United Kingdom"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "name":"Benz",
+            "showroom":"Mercedes-Benz",
+            "web":"https://www.mercedes-benz.com/en/",
+            "description":"Mercedes-Benz was founded in 1926 by Karl Benz, Gottlieb Daimler, Wilhelm Maybach and Emil Jellinek, whose daughter Mercedes is our original namesake. With offices in 93 locations worldwide and a corporate headquarters in Stuttgart, Germany, our global presence continues to grow.",
+            "address":[
+                {
+                    "addressid":"1",
+                    "number":"104",
+                    "line1":"Brick Lane",
+                    "postcode":"E1 6RL",
+                    "counrty":"United Kingdom"
+                }
+            ] 
+        }
+    ]
+}
