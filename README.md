@@ -1,2 +1,2 @@
 # cars-api
-My cars api just for fun
+My cars api just doing to have fun as a beginner
